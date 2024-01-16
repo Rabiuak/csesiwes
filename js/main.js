@@ -1,5 +1,5 @@
 const APP_ID = "ac8ee879ad294e5b81adc0ea555364f2"
-const TOKEN = "007eJxTYBAS8G6ucFBYG/HSdW1Pg3kAz8kA+w2cHBuXJO/etkEha74CQ2KyRWqqhbllYoqRpUmqaZKFYWJKskFqoqmpqbGZSZpR4585qQ2BjAyHFUyZGBkgEMRnZQgqSU3OYGAAAMKEHgc="
+const TOKEN = "007eJxTYKg/b3zLJtd+y0u7S/6GTke495cJelxrP2fj2JDD+/PcsUAFhsRki9RUC3PLxBQjS5NU0yQLw8SUZIPURFNTU2MzkzQjT69lqQ2BjAxad94xMEIhiM/KEFSSmpzBwAAAf1QgLQ=="
 const CHANNEL = "Rtech"
 
 const client = AgoraRTC.createClient({mode:'rtc', codec:'vp8'})
